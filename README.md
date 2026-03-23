@@ -1,0 +1,1 @@
+Basic HTML knowledge practice project, that will consist of recipe website.
