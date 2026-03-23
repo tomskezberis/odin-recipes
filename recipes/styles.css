@@ -1,0 +1,43 @@
+body {
+    background-color:#b2beb5;
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    margin: 20px;
+    padding: 10px;
+}
+
+ul {
+   text-decoration: none;
+   font-style: italic;
+   padding: 0%;
+   
+   
+}
+
+li {
+    margin: 10px;
+    padding: 5px;
+    outline: 4px solid black;
+    list-style-type: none;
+    text-align: center;
+    
+}
+
+.green {
+    background-color: #009246;
+}
+.white {
+    background-color: white;
+}
+.red {
+    background-color: #ce2b37;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: large;
+}
